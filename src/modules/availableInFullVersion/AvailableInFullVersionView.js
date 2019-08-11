@@ -12,7 +12,7 @@ import { fonts, colors } from '../../styles';
 import { Button } from '../../components';
 
 export default function AvailableInFullVersionScreen(props) {
-  const rnsUrl = 'https://reactnativestarter.com';
+  const rnsUrl = 'https://DoughCodingChallange.com';
   const handleClick = () => {
     Linking.canOpenURL(rnsUrl).then(supported => {
       if (supported) {
