@@ -13,7 +13,7 @@ It's a huge update that doesn't have a backward compability with the 1.x version
 - New modular architecture that will help you speed up the applications development.
 - Lots of performance improvements in comparison with v1.0.0
 - Removed eslint styling rules in favour of prettier.
-- Added new documentation at https://docs.reactnativestarter.com/
+- Added new documentation at https://docs.DoughCodingChallange.com/
 - CI/CD compatibale project
 - Lots of new fixes and improvements
 

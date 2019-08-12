@@ -12,7 +12,7 @@ const listData = [
     badge: 'NEW',
     badgeColor: '#3cd39f',
     image:
-      'https://reactnativestarter.com/demo/images/city-sunny-people-street.jpg',
+      'https://DoughCodingChallange.com/demo/images/city-sunny-people-street.jpg',
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ const listData = [
     subtitle: 'Office, prom or special parties is all dressed up',
     price: '$29.99',
     priceFrom: true,
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-26549.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-26549.jpg',
   },
   {
     id: 3,
@@ -32,7 +32,7 @@ const listData = [
     priceFrom: true,
     badge: 'SALE',
     badgeColor: '#ee1f78',
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-30360.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-30360.jpg',
   },
   {
     id: 4,
@@ -42,7 +42,7 @@ const listData = [
     price: '$129.99',
     badge: 'NEW',
     badgeColor: 'green',
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-37839.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-37839.jpg',
   },
   {
     id: 5,
@@ -51,7 +51,7 @@ const listData = [
     subtitle: 'Office, prom or special parties is all dressed up',
     price: '$29.99',
     priceFrom: true,
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-69212.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-69212.jpg',
   },
   {
     id: 6,
@@ -62,7 +62,7 @@ const listData = [
     priceFrom: true,
     badge: 'SALE',
     badgeColor: 'red',
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-108061.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-108061.jpg',
   },
   {
     id: 7,
@@ -72,7 +72,7 @@ const listData = [
     price: '$129.99',
     badge: 'NEW',
     badgeColor: '#3cd39f',
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-126371.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-126371.jpg',
   },
   {
     id: 8,
@@ -81,7 +81,7 @@ const listData = [
     subtitle: 'Office, prom or special parties is all dressed up',
     price: '$29.99',
     priceFrom: true,
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-165888.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-165888.jpg',
   },
   {
     id: 9,
@@ -92,7 +92,7 @@ const listData = [
     priceFrom: true,
     badge: 'SALE',
     badgeColor: '#ee1f78',
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-167854.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-167854.jpg',
   },
   {
     id: 10,
@@ -102,7 +102,7 @@ const listData = [
     price: '$129.99',
     badge: 'NEW',
     badgeColor: 'green',
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-173427.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-173427.jpg',
   },
   {
     id: 11,
@@ -111,7 +111,7 @@ const listData = [
     subtitle: 'Office, prom or special parties is all dressed up',
     price: '$29.99',
     priceFrom: true,
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-175696.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-175696.jpg',
   },
   {
     id: 12,
@@ -122,7 +122,7 @@ const listData = [
     priceFrom: true,
     badge: 'SALE',
     badgeColor: 'red',
-    image: 'https://reactnativestarter.com/demo/images/pexels-photo-175733.jpg',
+    image: 'https://DoughCodingChallange.com/demo/images/pexels-photo-175733.jpg',
   },
 ];
 
